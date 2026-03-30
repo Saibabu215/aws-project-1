@@ -14,4 +14,12 @@ AWS 3-tier architecture project (learning)
 Accessed website using EC2 public IP and verified it is working(echo "<h1>My AWS Project 1</h1>" | sudo tee /var/www/html/index.html)
 
 ## Status
-Project in progress...
+## Day 2 - S3 Frontend Setup
+
+- Created S3 bucket
+- Enabled static website hosting
+- Uploaded index.html
+- Configured bucket policy for public access
+
+## Output
+Successfully hosted frontend using S3 static website URL(Welcome to My AWS Project - S3 Frontend)
