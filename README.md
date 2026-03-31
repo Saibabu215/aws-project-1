@@ -32,3 +32,12 @@ Successfully hosted frontend using S3 static website URL(Welcome to My AWS Proje
 
 ## Output
 Successfully accessed application via Load Balancer DNS
+## Day 4 - Auto Scaling Setup
+
+- Created launch template
+- Configured Auto Scaling Group
+- Attached to Load Balancer
+- Verified scaling with multiple instances
+
+## Output
+Application running with multiple EC2 instances behind Load Balancer
