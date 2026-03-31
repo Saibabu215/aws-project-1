@@ -23,3 +23,12 @@ Accessed website using EC2 public IP and verified it is working(echo "<h1>My AWS
 
 ## Output
 Successfully hosted frontend using S3 static website URL(Welcome to My AWS Project - S3 Frontend)
+## Day 3 - Load Balancer Setup
+
+- Created Application Load Balancer
+- Configured listener to forward traffic to target group
+- Registered EC2 instance
+- Fixed issue related to Availability Zone mismatch
+
+## Output
+Successfully accessed application via Load Balancer DNS
